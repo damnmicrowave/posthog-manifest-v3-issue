@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "lib": [
+      "DOM"
+    ],
+    "types": [
+      "chrome"
+    ],
+  },
+  "include": [
+    "src/**/*.ts",
+    "config/**/*.ts",
+    "vite.config.ts"
+  ]
+}
